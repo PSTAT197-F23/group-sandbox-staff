@@ -11,6 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## About me
 
-I'm studying French
+I'm studying French but hate german
 
 
+What is you favorite anime?
