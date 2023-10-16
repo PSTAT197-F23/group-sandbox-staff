@@ -14,3 +14,4 @@ knitr::opts_chunk$set(echo = TRUE)
 I'm studying French but hate german
 
 
+What is you favorite anime?
